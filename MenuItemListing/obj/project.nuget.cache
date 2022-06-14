@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2jR0RuswzqM5DtonEamxcBatwYHz3AN7ntjpJO62+0V3+eC2fsWJCaiS8MS7K9NsVz5Zlpx/QAEjmXD4n/6Ow==",
+  "success": true,
+  "projectFilePath": "D:\\WebApi\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sourav Shil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
